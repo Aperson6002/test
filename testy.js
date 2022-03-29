@@ -1,2 +1,3 @@
+var id = document.getElementById("test");
 var test = 6;
-console.log(test);
+id.innerHTML = "hello world";
